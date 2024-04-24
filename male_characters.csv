@@ -1,0 +1,5 @@
+ID,Name,Status,Gender,Species,Location,Image,Episode Count
+1,Rick Sanchez,Alive,Male,Human,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/1.jpeg,51
+2,Morty Smith,Alive,Male,Human,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/2.jpeg,51
+5,Jerry Smith,Alive,Male,Human,Earth (Replacement Dimension),https://rickandmortyapi.com/api/character/avatar/5.jpeg,39
+18,Antenna Morty,Alive,Male,Human,Citadel of Ricks,https://rickandmortyapi.com/api/character/avatar/18.jpeg,2
