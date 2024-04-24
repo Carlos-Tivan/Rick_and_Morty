@@ -108,7 +108,7 @@ def main():
     # Filtrar personajes muertos por estado "Dead", género "Female" y especie "Human"
     dead_characters = filter_characters(all_characters['results'], status="Alive", gender="Female", species="Alien")
 
-    # Definir los campos para guardar en CSV
+    # Definir los campos para guardar en CSV mediante una lista
     csv_fields = ['ID', 'Name', 'Status', 'Gender', 'Species', 'Location', 'Image', 'Episode Count']
 
     # Guardar personajes vivos en un archivo CSV
